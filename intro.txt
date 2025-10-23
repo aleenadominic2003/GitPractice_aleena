@@ -1,0 +1,10 @@
+Git is a version control system that helps manage changes to files and coordinate work among multiple people.
+Common commands include:
+git init: Initializes a new repository.
+git clone: Copies an existing repository.
+git add: Stages changes for the next commit.
+git commit: Saves the staged changes.
+git push: Uploads local changes to a remote repository.
+git pull: Fetches and merges changes from a remote repository.
+Git facilitates collaboration by allowing multiple contributors to work on the same project.
+Pull requests are used to propose changes and review code before merging.
